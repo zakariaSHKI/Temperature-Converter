@@ -19,14 +19,15 @@ This project allows users to convert temperatures between **Celsius (°C)** and 
 - JavaScript
 - CSS3
 
-## 📂 Project Structure
-
-The Link to the Temperature Converter:
-tempratureconverterjs.netlify.app
-
 ```text
 temperature-converter/
 │
 ├── index.html
 ├── learn.js
 └── style.css
+```
+
+The Link To The Temperature Converter:
+
+tempratureconverterjs.netlify.app
+
