@@ -1,0 +1,35 @@
+body { font-family: Arial, sans-serif;
+font-size: 16px;
+background-color: #f4f4f4; }
+form {
+    margin: 20px auto;
+    color: #333;
+    text-align: center;
+}
+#inputValue { width: 500px;
+height: 30px;
+font-size: 20px; }
+#convertbtn {
+    background-color: #f15454;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#outputValue {
+    margin-top: 20px;
+    font-size: 30px;
+    color: #333;
+}
+#convertbtn {
+    background-color: #d13f3f;
+    color:aliceblue;
+    border: none;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
