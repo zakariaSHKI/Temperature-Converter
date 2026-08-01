@@ -18,5 +18,5 @@ convertBtn.onclick = function() {
     value = document.getElementById("inputValue").value;
     value = Number(value);
     convert(value);
-    document.getElementById("outputValue").textContent = result;
+    document.getElementById("outputValue").textContent = result.toFixed(2);
 }
