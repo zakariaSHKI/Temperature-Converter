@@ -34,6 +34,9 @@ label {
     border-radius: 10px;
 }
 @media (max-width: 768px){
+    h1 {
+        font-size: 20px;
+    }
     #inputValue {
         width: 100%;
         height: 40px;
